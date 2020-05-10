@@ -1,0 +1,149 @@
+{
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2020-05-10 01:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2020-05-10 01:52:10 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/armor/emerald_chestplate": {
+    "criteria": {
+      "has_emerald": "2020-05-10 01:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2020-05-10 01:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2020-05-10 01:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2020-05-10 01:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2020-05-10 01:58:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:pillager": "2020-05-10 01:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2020-05-10 01:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2020-05-10 01:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2020-05-10 01:48:56 +0000",
+      "minecraft:ravager": "2020-05-10 01:55:04 +0000",
+      "minecraft:vindicator": "2020-05-10 01:52:10 +0000",
+      "minecraft:witch": "2020-05-10 01:56:24 +0000",
+      "minecraft:zombie": "2020-05-10 02:00:30 +0000"
+    },
+    "done": false
+  },
+  "supertools:recipes/armor/emerald_helmet": {
+    "criteria": {
+      "has_emerald": "2020-05-10 01:52:12 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/armor/emerald_boots": {
+    "criteria": {
+      "has_emerald": "2020-05-10 01:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2020-05-10 01:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2020-05-10 01:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2020-05-10 01:36:29 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/armor/emerald_leggings": {
+    "criteria": {
+      "has_emerald": "2020-05-10 01:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "baked_potato": "2020-05-10 01:54:34 +0000",
+      "apple": "2020-05-10 01:54:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2020-05-10 01:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2020-05-10 01:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2020-05-10 01:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2020-05-10 01:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-05-10 01:24:42 +0000",
+      "minecraft:river": "2020-05-10 01:34:55 +0000",
+      "minecraft:swamp": "2020-05-10 01:59:06 +0000",
+      "minecraft:plains": "2020-05-10 01:17:09 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}
