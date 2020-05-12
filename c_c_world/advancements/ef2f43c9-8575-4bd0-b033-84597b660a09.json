@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2020-05-12 01:05:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-05-11 01:20:13 +0000"
@@ -434,6 +440,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2020-05-11 01:20:47 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/wooden_sickle": {
+    "criteria": {
+      "has_items": "2020-05-12 02:23:23 +0000"
     },
     "done": true
   },
@@ -893,6 +905,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2020-05-11 03:44:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2020-05-12 02:23:00 +0000"
     },
     "done": true
   },
