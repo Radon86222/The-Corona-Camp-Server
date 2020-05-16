@@ -550,6 +550,7 @@
       "minecraft:blaze": "2020-05-11 04:39:10 +0000",
       "minecraft:pillager": "2020-05-11 06:59:11 +0000",
       "minecraft:skeleton": "2020-05-09 02:18:39 +0000",
+      "minecraft:zombie_pigman": "2020-05-16 01:10:21 +0000",
       "minecraft:ghast": "2020-05-11 04:01:23 +0000",
       "minecraft:guardian": "2020-05-11 07:54:56 +0000",
       "minecraft:vindicator": "2020-05-11 07:04:29 +0000",
@@ -789,6 +790,12 @@
   "supertools:recipes/tools/quartz_axe": {
     "criteria": {
       "has_items": "2020-05-09 06:04:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2020-05-16 02:58:56 +0000"
     },
     "done": true
   },
@@ -1593,6 +1600,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2020-05-09 03:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2020-05-16 02:58:56 +0000"
     },
     "done": true
   },

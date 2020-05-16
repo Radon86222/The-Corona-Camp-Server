@@ -47,8 +47,8 @@
 299 86 -533 304 113 -528 balloontest.tml
 302 79 659 307 84 668 mininghut.tml
 304 64 163 309 91 168 balloontest.tml
-313 70 -255 318 97 -250 balloontest.tml
 313 63 487 324 67 496 randomruinsmall1.tml
+313 70 -255 318 97 -250 balloontest.tml
 356 64 776 362 68 785 randomruins2.tml
 369 68 -875 376 72 -868 randomenchantmenthut.tml
 402 68 -773 421 92 -754 burrow.tml
@@ -59,13 +59,13 @@
 461 64 -188 468 68 -181 randomenchantmenthut.tml
 495 67 1038 504 75 1049 randomoreveinsmall.tml
 507 71 940 512 98 945 balloontest.tml
-508 63 -46 517 67 -40 randomruins2.tml
 508 68 447 513 95 452 balloontest.tml
+508 63 -46 517 67 -40 randomruins2.tml
 538 74 -900 543 101 -895 balloontest.tml
 567 66 798 574 70 805 randomenchantmenthut.tml
 575 69 -439 582 77 -433 tikihead2.tml
-622 70 401 629 74 408 randomenchantmenthut.tml
 622 66 -290 631 74 -281 fountain.tml
+622 70 401 629 74 408 randomenchantmenthut.tml
 647 71 -23 652 98 -18 balloontest.tml
 738 64 1156 744 68 1165 randomruins2.tml
 764 64 548 770 68 557 randomruins2.tml
@@ -167,8 +167,8 @@
 2870 62 2185 2877 66 2192 randomenchantmenthut.tml
 2877 66 2103 2883 70 2109 randomplants.tml
 2880 64 1989 2886 68 1998 randomruins2.tml
-2883 71 1866 2890 75 1873 randomenchantmenthut.tml
 2883 61 -1693 2890 65 -1686 randomenchantmenthut.tml
+2883 71 1866 2890 75 1873 randomenchantmenthut.tml
 2894 72 -2221 2899 99 -2216 balloontest.tml
 2948 63 -2125 2959 80 -2092 pirateship1.tml
 2978 62 -1695 2987 70 -1686 fountain.tml

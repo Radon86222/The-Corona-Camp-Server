@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2020-05-16 01:04:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2020-05-09 07:12:10 +0000"
@@ -125,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-05-16 01:04:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2020-05-09 03:07:34 +0000"
@@ -146,6 +158,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2020-05-09 07:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2020-05-16 01:24:46 +0000"
     },
     "done": true
   },
@@ -188,6 +206,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2020-05-09 08:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2020-05-16 01:04:50 +0000"
     },
     "done": true
   },
@@ -332,6 +356,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2020-05-09 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2020-05-16 02:47:11 +0000"
     },
     "done": true
   },
@@ -682,6 +712,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2020-05-16 01:24:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2020-05-09 02:37:37 +0000"
@@ -880,6 +916,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2020-05-16 02:58:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2020-05-09 08:30:39 +0000"
@@ -889,6 +931,12 @@
   "supertools:recipes/tools/emerald_shovel": {
     "criteria": {
       "has_items": "2020-05-10 01:58:21 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/diamond_sickle": {
+    "criteria": {
+      "has_items": "2020-05-16 02:41:23 +0000"
     },
     "done": true
   },
@@ -1126,6 +1174,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-05-16 01:04:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2020-05-09 07:20:28 +0000"
@@ -1243,8 +1297,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2020-05-09 02:37:38 +0000",
+      "minecraft:taiga": "2020-05-16 01:03:57 +0000",
+      "minecraft:beach": "2020-05-16 01:03:35 +0000",
       "minecraft:dark_forest": "2020-05-09 05:02:44 +0000",
       "minecraft:river": "2020-05-09 02:08:40 +0000",
+      "minecraft:lukewarm_ocean": "2020-05-16 01:03:40 +0000",
       "minecraft:wooded_hills": "2020-05-09 02:52:31 +0000",
       "minecraft:swamp": "2020-05-09 02:08:30 +0000",
       "minecraft:plains": "2020-05-09 02:06:40 +0000"
@@ -1290,6 +1347,12 @@
   "supertools:recipes/tools/lapis_hoe": {
     "criteria": {
       "has_items": "2020-05-11 02:32:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2020-05-16 01:24:00 +0000"
     },
     "done": true
   },
@@ -1707,6 +1770,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2020-05-16 02:58:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2020-05-09 02:08:33 +0000"
@@ -1740,6 +1809,12 @@
   "supertools:recipes/tools/lapis_pickaxe": {
     "criteria": {
       "has_items": "2020-05-11 02:32:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2020-05-16 02:52:24 +0000"
     },
     "done": true
   },
@@ -2174,6 +2249,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2020-05-16 01:04:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2020-05-09 03:45:22 +0000"
@@ -2255,6 +2336,12 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_dark_oak_planks": "2020-05-09 07:20:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2020-05-16 01:04:50 +0000"
     },
     "done": true
   },
@@ -2387,6 +2474,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2020-05-09 03:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2020-05-16 01:04:50 +0000"
     },
     "done": true
   },
@@ -2573,6 +2666,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2020-05-09 08:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2020-05-16 01:04:50 +0000"
     },
     "done": true
   },
@@ -2774,6 +2873,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-05-16 02:52:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2020-05-09 02:42:20 +0000"
@@ -2924,6 +3029,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-05-16 01:04:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_the_recipe": "2020-05-11 00:25:00 +0000"
@@ -2969,6 +3080,12 @@
   "supertools:recipes/tools/redstone_pickaxe": {
     "criteria": {
       "has_items": "2020-05-09 08:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2020-05-16 01:24:46 +0000"
     },
     "done": true
   },
