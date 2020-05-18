@@ -9,7 +9,36 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
+-1874 71 590 -1868 79 597 tikihead2.tml
+-1829 63 699 -1822 67 706 randomenchantmenthut.tml
+-1672 67 621 -1666 71 627 randomplants.tml
+-1604 63 424 -1599 90 429 balloontest.tml
+-1602 91 503 -1586 104 518 smallspiderhouse.tml
+-1511 93 514 -1502 101 523 fountain.tml
+-1416 85 321 -1409 96 326 tikihead3.tml
+-1386 62 513 -1380 66 522 randomruins2.tml
+-1338 65 359 -1333 92 364 balloontest.tml
+-1271 88 809 -1257 98 819 witherworshipers.tml
+-1234 85 1028 -1227 96 1033 tikihead3.tml
+-1199 90 690 -1192 99 696 tikihead1.tml
+-1196 89 944 -1187 97 955 randomoreveinsmall.tml
+-1135 62 801 -1129 66 807 randomplants.tml
+-1113 92 912 -1108 119 917 balloontest.tml
+-1052 91 838 -1046 99 845 tikihead2.tml
+-1046 96 -238 -1039 100 -231 randomenchantmenthut.tml
+-1037 68 45 -1032 95 50 balloontest.tml
+-1029 89 956 -1023 93 965 randomruins2.tml
+-1016 73 360 -1011 100 365 balloontest.tml
+-971 63 136 -961 68 147 ZombieHut.tml
+-965 93 771 -958 97 778 randomenchantmenthut.tml
+-958 63 858 -925 80 869 pirateship1.tml
+-934 65 368 -929 76 375 tikihead3.tml
+-906 88 1072 -899 92 1079 randomenchantmenthut.tml
+-898 66 627 -893 93 632 balloontest.tml
+-867 62 50 -858 66 61 randomruinsmall1.tml
 -806 72 -235 -801 99 -230 balloontest.tml
+-793 93 125 -786 102 131 tikihead1.tml
+-754 61 624 -745 66 629 mininghut.tml
 -737 64 -429 -726 72 -420 randomoreveinsmall.tml
 -701 68 -651 -696 95 -646 balloontest.tml
 -685 66 -739 -679 75 -732 tikihead1.tml
@@ -47,8 +76,8 @@
 299 86 -533 304 113 -528 balloontest.tml
 302 79 659 307 84 668 mininghut.tml
 304 64 163 309 91 168 balloontest.tml
-313 63 487 324 67 496 randomruinsmall1.tml
 313 70 -255 318 97 -250 balloontest.tml
+313 63 487 324 67 496 randomruinsmall1.tml
 356 64 776 362 68 785 randomruins2.tml
 369 68 -875 376 72 -868 randomenchantmenthut.tml
 402 68 -773 421 92 -754 burrow.tml
@@ -59,13 +88,13 @@
 461 64 -188 468 68 -181 randomenchantmenthut.tml
 495 67 1038 504 75 1049 randomoreveinsmall.tml
 507 71 940 512 98 945 balloontest.tml
-508 68 447 513 95 452 balloontest.tml
 508 63 -46 517 67 -40 randomruins2.tml
+508 68 447 513 95 452 balloontest.tml
 538 74 -900 543 101 -895 balloontest.tml
 567 66 798 574 70 805 randomenchantmenthut.tml
 575 69 -439 582 77 -433 tikihead2.tml
-622 66 -290 631 74 -281 fountain.tml
 622 70 401 629 74 408 randomenchantmenthut.tml
+622 66 -290 631 74 -281 fountain.tml
 647 71 -23 652 98 -18 balloontest.tml
 738 64 1156 744 68 1165 randomruins2.tml
 764 64 548 770 68 557 randomruins2.tml
@@ -178,8 +207,8 @@
 2870 62 2185 2877 66 2192 randomenchantmenthut.tml
 2877 66 2103 2883 70 2109 randomplants.tml
 2880 64 1989 2886 68 1998 randomruins2.tml
-2883 61 -1693 2890 65 -1686 randomenchantmenthut.tml
 2883 71 1866 2890 75 1873 randomenchantmenthut.tml
+2883 61 -1693 2890 65 -1686 randomenchantmenthut.tml
 2894 72 -2221 2899 99 -2216 balloontest.tml
 2948 63 -2125 2959 80 -2092 pirateship1.tml
 2978 62 -1695 2987 70 -1686 fountain.tml

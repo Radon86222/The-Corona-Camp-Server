@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2020-05-17 21:07:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2020-05-11 02:37:19 +0000"
@@ -223,7 +229,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "baked_potato": "2020-05-11 01:14:02 +0000"
+      "honey_bottle": "2020-05-17 20:49:53 +0000",
+      "cooked_beef": "2020-05-17 21:33:23 +0000",
+      "baked_potato": "2020-05-11 01:14:02 +0000",
+      "apple": "2020-05-17 20:41:54 +0000"
     },
     "done": false
   },
@@ -299,6 +308,12 @@
     },
     "done": true
   },
+  "supertools:supertools/bag_of_bonemeal": {
+    "criteria": {
+      "bone_meal_tool": "2020-05-17 21:31:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2020-05-11 01:06:26 +0000"
@@ -314,6 +329,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-05-11 01:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2020-05-17 21:07:59 +0000"
     },
     "done": true
   },
@@ -545,6 +566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2020-05-17 21:07:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2020-05-11 01:27:50 +0000"
@@ -567,6 +594,7 @@
     "criteria": {
       "minecraft:skeleton": "2020-05-11 02:30:38 +0000",
       "minecraft:zombie_pigman": "2020-05-11 02:57:45 +0000",
+      "minecraft:spider": "2020-05-17 21:07:58 +0000",
       "minecraft:creeper": "2020-05-11 03:38:19 +0000",
       "minecraft:zombie": "2020-05-11 02:54:36 +0000"
     },
@@ -680,6 +708,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2020-05-17 20:49:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2020-05-11 01:16:11 +0000"
@@ -710,6 +744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2020-05-17 21:07:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2020-05-11 01:27:50 +0000"
@@ -719,6 +759,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-05-11 01:28:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2020-05-17 21:35:19 +0000"
     },
     "done": true
   },
@@ -860,6 +906,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2020-05-17 21:07:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2020-05-11 02:52:17 +0000"
@@ -899,6 +951,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2020-05-11 01:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_string": "2020-05-17 21:07:59 +0000"
     },
     "done": true
   },
@@ -1129,6 +1187,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-05-11 01:05:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2020-05-17 20:49:44 +0000"
     },
     "done": true
   },
