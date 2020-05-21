@@ -1228,6 +1228,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/complete_build_request_1_warehouse": {
+    "criteria": {
+      "warehouse": "2020-05-21 17:00:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2020-05-09 03:14:20 +0000"
