@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2020-05-21 01:13:48 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/armor/emerald_chestplate": {
     "criteria": {
       "has_emerald": "2020-05-10 01:52:12 +0000"
@@ -53,6 +59,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2020-05-21 01:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2020-05-21 01:13:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-05-11 00:59:30 +0000"
@@ -68,6 +86,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2020-05-11 00:21:38 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/supertools/super_hoe": {
+    "criteria": {
+      "has_items": "2020-05-21 01:22:34 +0000"
     },
     "done": true
   },
@@ -92,6 +116,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2020-05-11 00:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2020-05-21 01:13:48 +0000"
     },
     "done": true
   },
@@ -143,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-05-21 01:13:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2020-05-11 00:53:20 +0000"
@@ -161,6 +197,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2020-05-21 01:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2020-05-21 01:13:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2020-05-11 00:21:38 +0000"
@@ -173,9 +221,21 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2020-05-21 00:17:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2020-05-10 01:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2020-05-21 01:22:00 +0000"
     },
     "done": true
   },
@@ -218,6 +278,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2020-05-11 00:39:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2020-05-21 01:13:48 +0000"
     },
     "done": true
   },
@@ -288,9 +354,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-05-21 01:13:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2020-05-11 00:59:30 +0000"
+    },
+    "done": true
+  },
+  "supertools:supertools/super_shovel": {
+    "criteria": {
+      "super_shovel": "2020-05-21 00:19:14 +0000"
     },
     "done": true
   },
@@ -303,6 +381,18 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2020-05-11 01:12:08 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/supertools/super_pickaxe": {
+    "criteria": {
+      "has_items": "2020-05-21 01:22:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2020-05-21 01:13:48 +0000"
     },
     "done": true
   },
@@ -348,6 +438,18 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/citizen_eat_food_first": {
+    "criteria": {
+      "citizen_eat_anything": "2020-05-21 01:21:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/composter": {
+    "criteria": {
+      "has_wood_slab": "2020-05-21 01:17:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2020-05-11 00:50:42 +0000"
@@ -357,6 +459,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-05-11 00:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-05-21 01:13:52 +0000"
     },
     "done": true
   },
@@ -372,15 +480,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-05-21 01:13:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2020-05-11 01:41:31 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2020-05-21 01:13:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2020-05-11 00:50:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2020-05-21 01:22:00 +0000"
     },
     "done": true
   },
@@ -420,6 +546,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2020-05-21 01:22:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2020-05-10 01:42:06 +0000"
@@ -432,9 +564,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2020-05-21 00:50:03 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/armor/quartz_chestplate": {
     "criteria": {
       "has_quartz": "2020-05-11 00:50:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2020-05-21 01:13:48 +0000"
     },
     "done": true
   },
@@ -498,6 +642,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/create_build_request_1_builder": {
+    "criteria": {
+      "builder_request": "2020-05-21 00:43:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2020-05-10 01:36:29 +0000"
@@ -522,15 +672,45 @@
     },
     "done": true
   },
+  "supertools:recipes/supertools/super_shovel": {
+    "criteria": {
+      "has_items": "2020-05-21 01:22:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-05-21 01:13:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2020-05-10 01:48:56 +0000"
     },
     "done": true
   },
+  "supertools:recipes/supertools/super_sword": {
+    "criteria": {
+      "has_items": "2020-05-21 01:22:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-05-21 01:13:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-05-11 00:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-05-21 01:13:52 +0000"
     },
     "done": true
   },
@@ -549,6 +729,24 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2020-05-11 01:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2020-05-21 00:05:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2020-05-21 01:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2020-05-21 01:22:00 +0000"
     },
     "done": true
   },
@@ -579,6 +777,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2020-05-21 01:22:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2020-05-11 01:02:59 +0000"
@@ -588,6 +792,12 @@
   "supertools:recipes/tools/quartz_shovel": {
     "criteria": {
       "has_items": "2020-05-11 00:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-05-21 01:13:52 +0000"
     },
     "done": true
   },
@@ -603,9 +813,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2020-05-21 00:05:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2020-05-11 00:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-05-21 01:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2020-05-21 01:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2020-05-21 00:05:30 +0000"
     },
     "done": true
   },
@@ -627,9 +861,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2020-05-21 01:22:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2020-05-11 02:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2020-05-21 01:22:00 +0000"
     },
     "done": true
   },
@@ -651,9 +897,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-05-21 01:13:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-05-11 00:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2020-05-21 00:05:30 +0000"
     },
     "done": true
   },
@@ -675,9 +933,21 @@
     },
     "done": true
   },
+  "supertools:supertools/super_axe": {
+    "criteria": {
+      "super_axe": "2020-05-21 01:22:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2020-05-11 00:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2020-05-21 01:13:48 +0000"
     },
     "done": true
   },
@@ -693,6 +963,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2020-05-21 01:13:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2020-05-11 01:41:31 +0000"
@@ -705,9 +981,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2020-05-21 01:13:48 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/tools/quartz_sword": {
     "criteria": {
       "has_items": "2020-05-11 00:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2020-05-21 01:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2020-05-21 01:36:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2020-05-21 01:13:48 +0000"
     },
     "done": true
   },
@@ -723,9 +1023,21 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/click_gui_button_fulfill": {
+    "criteria": {
+      "click_gui_button_fulfill": "2020-05-21 00:47:30 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/tools/iron_sickle": {
     "criteria": {
       "has_items": "2020-05-11 00:54:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2020-05-21 00:17:04 +0000"
     },
     "done": true
   },
@@ -735,15 +1047,33 @@
     },
     "done": true
   },
+  "supertools:recipes/tools/diamond_sickle": {
+    "criteria": {
+      "has_items": "2020-05-21 01:22:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2020-05-11 00:21:38 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2020-05-21 01:13:48 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/tools/redstone_axe": {
     "criteria": {
       "has_items": "2020-05-11 01:12:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2020-05-21 00:16:01 +0000"
     },
     "done": true
   },
@@ -801,6 +1131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2020-05-21 01:13:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2020-05-11 00:21:18 +0000"
@@ -810,6 +1146,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2020-05-11 00:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2020-05-21 00:50:03 +0000"
     },
     "done": true
   },
@@ -891,6 +1233,24 @@
     },
     "done": true
   },
+  "supertools:recipes/supertools/cup": {
+    "criteria": {
+      "has_items": "2020-05-21 01:22:34 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/supertools/super_sickle": {
+    "criteria": {
+      "has_items": "2020-05-21 01:22:34 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/supertools/super_axe": {
+    "criteria": {
+      "has_items": "2020-05-21 01:22:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_string": "2020-05-11 01:20:54 +0000"
@@ -903,9 +1263,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2020-05-21 00:50:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2020-05-11 01:17:09 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/complete_build_request_1_builder": {
+    "criteria": {
+      "builders_hut": "2020-05-21 01:18:41 +0000"
     },
     "done": true
   },
@@ -930,6 +1302,12 @@
   "supertools:recipes/armor/emerald_leggings": {
     "criteria": {
       "has_emerald": "2020-05-10 01:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2020-05-21 01:13:48 +0000"
     },
     "done": true
   },
@@ -960,6 +1338,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-05-11 00:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-05-21 01:13:52 +0000"
     },
     "done": true
   },
@@ -1051,6 +1435,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-05-21 01:13:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2020-05-11 00:21:18 +0000"
@@ -1123,6 +1513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2020-05-21 01:22:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2020-05-10 01:36:29 +0000"
@@ -1135,9 +1531,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2020-05-21 01:13:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2020-05-11 02:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-05-21 01:13:52 +0000"
     },
     "done": true
   },
@@ -1207,6 +1615,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2020-05-21 01:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2020-05-21 01:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-05-21 01:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2020-05-21 01:13:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2020-05-11 00:21:38 +0000"
@@ -1228,6 +1660,12 @@
   "supertools:recipes/tools/redstone_sword": {
     "criteria": {
       "has_items": "2020-05-11 01:12:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-05-21 01:13:52 +0000"
     },
     "done": true
   },

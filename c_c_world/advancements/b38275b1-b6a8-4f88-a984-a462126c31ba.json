@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/complete_build_request_1_citizen": {
+    "criteria": {
+      "citizens_hut": "2020-05-21 02:05:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2020-05-09 03:07:34 +0000"
@@ -326,6 +332,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2020-05-09 02:41:27 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/place_townhall": {
+    "criteria": {
+      "build_tool_place_town_hall": "2020-05-21 00:35:08 +0000"
     },
     "done": true
   },
@@ -566,6 +578,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2020-05-09 05:05:41 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/citizen_eat_food_first": {
+    "criteria": {
+      "citizen_eat_anything": "2020-05-21 01:21:38 +0000"
     },
     "done": true
   },
@@ -895,6 +913,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2020-05-11 02:39:35 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/complete_build_request_1_farmer": {
+    "criteria": {
+      "farmers_hut": "2020-05-21 03:51:31 +0000"
     },
     "done": true
   },
@@ -1234,6 +1258,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2020-05-21 00:09:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-05-09 07:23:46 +0000"
@@ -1258,15 +1288,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
-    "criteria": {
-      "has_light_gray_terracotta": "2020-05-18 00:55:28 +0000"
-    },
-    "done": true
-  },
   "midnight:recipes/midnight_tools/tenebrum_hoe": {
     "criteria": {
       "has_item": "2020-05-18 00:27:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2020-05-18 00:55:28 +0000"
     },
     "done": true
   },
@@ -1555,6 +1585,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2020-05-09 02:42:20 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/complete_build_request_1_builder": {
+    "criteria": {
+      "builders_hut": "2020-05-21 01:18:41 +0000"
     },
     "done": true
   },
@@ -2379,6 +2415,12 @@
     },
     "done": true
   },
+  "supertools:supertools/super_sickle": {
+    "criteria": {
+      "super_sickle": "2020-05-21 00:08:20 +0000"
+    },
+    "done": true
+  },
   "midnight:recipes/midnight_items/dark_stick": {
     "criteria": {
       "has_planks": "2020-05-17 23:22:24 +0000"
@@ -2541,6 +2583,7 @@
       "cooked_beef": "2020-05-09 04:12:27 +0000",
       "baked_potato": "2020-05-09 06:02:09 +0000",
       "apple": "2020-05-09 04:40:18 +0000",
+      "cooked_cod": "2020-05-21 02:08:00 +0000",
       "cooked_chicken": "2020-05-09 04:48:53 +0000"
     },
     "done": false
@@ -2798,6 +2841,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/complete_build_request_1_lumberjack": {
+    "criteria": {
+      "lumberjacks_hut": "2020-05-21 03:19:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-05-09 08:30:29 +0000"
@@ -2894,6 +2943,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/root": {
+    "criteria": {
+      "supply_ship_placed": "2020-05-21 00:31:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2020-05-09 07:28:54 +0000"
@@ -2963,6 +3018,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-05-09 08:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/create_build_request_1_builder": {
+    "criteria": {
+      "builder_request": "2020-05-21 00:43:15 +0000"
     },
     "done": true
   },
@@ -3440,6 +3501,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/click_gui_button_fulfill": {
+    "criteria": {
+      "click_gui_button_fulfill": "2020-05-21 00:43:59 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/tools/iron_sickle": {
     "criteria": {
       "has_items": "2020-05-09 03:19:21 +0000"
@@ -3734,6 +3801,12 @@
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2020-05-09 02:41:27 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecraft/craft_supply": {
+    "criteria": {
+      "supply_ship": "2020-05-21 00:31:26 +0000"
     },
     "done": true
   },
