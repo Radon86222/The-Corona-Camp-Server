@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "supertools:supertools/special_cup": {
+    "criteria": {
+      "special_cup": "2020-05-29 04:48:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2020-05-09 07:28:52 +0000"
@@ -1036,6 +1042,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2020-05-29 06:19:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2020-05-09 02:37:37 +0000"
@@ -1441,6 +1453,12 @@
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2020-05-09 02:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2020-05-29 04:42:41 +0000"
     },
     "done": true
   },
@@ -2253,6 +2271,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2020-05-29 06:19:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2020-05-09 03:04:26 +0000"
@@ -2655,6 +2679,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/complete_build_request_1_miner": {
+    "criteria": {
+      "miners_hut": "2020-05-29 03:46:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2020-05-09 03:04:26 +0000"
@@ -2664,6 +2694,12 @@
   "supertools:recipes/tools/lapis_pickaxe": {
     "criteria": {
       "has_items": "2020-05-11 02:32:49 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/complete_build_request_1_barracks": {
+    "criteria": {
+      "guard_tower": "2020-05-30 02:09:35 +0000"
     },
     "done": true
   },
@@ -2936,6 +2972,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2020-05-29 06:19:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-05-09 07:23:46 +0000"
@@ -3144,6 +3186,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2020-05-09 03:14:20 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/complete_build_request_1_barracks_tower": {
+    "criteria": {
+      "guard_tower": "2020-05-30 02:18:29 +0000"
     },
     "done": true
   },
@@ -4017,6 +4065,18 @@
   "minecraft:recipes/building_blocks/polished_granite_slab": {
     "criteria": {
       "has_polished_granite": "2020-05-22 02:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/complete_build_request_1_cowboy": {
+    "criteria": {
+      "sawmill": "2020-05-29 04:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_logs": "2020-05-29 04:42:41 +0000"
     },
     "done": true
   },

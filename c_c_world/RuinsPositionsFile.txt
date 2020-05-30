@@ -623,7 +623,11 @@
 3699 63 -1413 3704 74 -1406 tikihead3.tml
 3713 63 -1498 3718 90 -1493 balloontest.tml
 3835 63 -1527 3868 80 -1516 pirateship1.tml
+4178 63 1804 4211 80 1815 pirateship1.tml
 4336 63 -156 4347 80 -123 pirateship1.tml
+4362 94 1863 4368 98 1869 randomplants.tml
 4460 71 -333 4467 75 -326 randomenchantmenthut.tml
+4464 65 1834 4469 92 1839 balloontest.tml
+4485 63 1928 4496 80 1961 pirateship1.tml
 4496 71 -416 4501 98 -411 balloontest.tml
 4557 65 -127 4562 92 -122 balloontest.tml

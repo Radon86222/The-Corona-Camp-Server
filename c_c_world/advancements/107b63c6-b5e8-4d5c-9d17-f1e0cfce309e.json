@@ -1385,6 +1385,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/complete_build_request_1_miner": {
+    "criteria": {
+      "miners_hut": "2020-05-29 03:46:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2020-05-09 07:43:37 +0000"
@@ -1671,6 +1677,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2020-05-09 03:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/complete_build_request_1_barracks_tower": {
+    "criteria": {
+      "guard_tower": "2020-05-30 02:18:29 +0000"
     },
     "done": true
   },
@@ -2799,10 +2811,12 @@
       "minecraft:zombie_pigman": "2020-05-16 01:12:07 +0000",
       "minecraft:ghast": "2020-05-11 01:00:38 +0000",
       "minecraft:guardian": "2020-05-16 01:10:45 +0000",
+      "minecraft:vindicator": "2020-05-30 03:14:40 +0000",
       "minecraft:magma_cube": "2020-05-11 04:45:00 +0000",
       "minecraft:spider": "2020-05-09 04:18:25 +0000",
       "minecraft:creeper": "2020-05-11 05:44:10 +0000",
       "minecraft:slime": "2020-05-11 01:18:59 +0000",
+      "minecraft:evoker": "2020-05-30 03:23:18 +0000",
       "minecraft:phantom": "2020-05-16 01:03:22 +0000",
       "minecraft:witch": "2020-05-17 00:45:27 +0000",
       "minecraft:wither_skeleton": "2020-05-11 00:54:27 +0000",
@@ -3714,6 +3728,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/complete_build_request_1_barracks": {
+    "criteria": {
+      "guard_tower": "2020-05-30 02:09:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2020-05-11 05:35:13 +0000"
@@ -3759,6 +3779,7 @@
       "rotten_flesh": "2020-05-09 03:34:39 +0000",
       "salmon": "2020-05-17 04:23:31 +0000",
       "melon_slice": "2020-05-17 21:26:46 +0000",
+      "cooked_chicken": "2020-05-29 04:33:18 +0000",
       "cod": "2020-05-09 08:02:03 +0000",
       "carrot": "2020-05-09 09:52:48 +0000"
     },
@@ -4428,6 +4449,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab": {
     "criteria": {
       "has_polished_granite": "2020-05-21 01:19:49 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/complete_build_request_1_cowboy": {
+    "criteria": {
+      "sawmill": "2020-05-29 04:15:52 +0000"
     },
     "done": true
   },
