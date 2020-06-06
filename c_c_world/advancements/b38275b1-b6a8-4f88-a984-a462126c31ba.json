@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/complete_build_request_1_smeltery": {
+    "criteria": {
+      "smeltery": "2020-06-06 02:43:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2020-05-09 02:40:20 +0000"
@@ -356,6 +362,12 @@
   "minecolonies:minecolonies/place_townhall": {
     "criteria": {
       "build_tool_place_town_hall": "2020-05-21 00:35:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2020-06-06 02:29:11 +0000"
     },
     "done": true
   },
@@ -3912,6 +3924,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/complete_build_request_1_sawmill": {
+    "criteria": {
+      "sawmill": "2020-06-03 02:31:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2020-05-09 03:14:20 +0000"
@@ -4185,6 +4203,12 @@
   "midnight:recipes/midnight_decoration/dark_willow_chest": {
     "criteria": {
       "has_item": "2020-05-17 23:22:24 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/complete_build_request_1_combat_academy": {
+    "criteria": {
+      "guard_tower": "2020-06-03 02:41:47 +0000"
     },
     "done": true
   },

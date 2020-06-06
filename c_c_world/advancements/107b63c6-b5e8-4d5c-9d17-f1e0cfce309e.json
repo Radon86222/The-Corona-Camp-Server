@@ -2160,6 +2160,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/complete_build_request_1_combat_academy": {
+    "criteria": {
+      "guard_tower": "2020-06-03 02:41:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2020-05-09 03:15:06 +0000"
@@ -2265,6 +2271,12 @@
   "midnight:recipes/midnight_combat/tenebrum_boots": {
     "criteria": {
       "has_item": "2020-05-18 00:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2020-06-06 02:19:05 +0000"
     },
     "done": true
   },
@@ -2458,6 +2470,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2020-05-09 03:14:25 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/complete_build_request_1_smeltery": {
+    "criteria": {
+      "smeltery": "2020-06-06 02:43:03 +0000"
     },
     "done": true
   },
@@ -2867,6 +2885,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2020-06-06 02:19:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2020-05-09 07:54:23 +0000"
@@ -2948,6 +2972,12 @@
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2020-05-17 01:21:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2020-06-06 02:19:05 +0000"
     },
     "done": true
   },
@@ -4097,6 +4127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2020-06-06 02:19:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2020-05-21 05:02:38 +0000"
@@ -4709,6 +4745,12 @@
   "minecolonies:minecolonies/complete_build_request_1_guard_tower": {
     "criteria": {
       "guard_tower": "2020-05-22 07:15:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2020-06-06 02:19:05 +0000"
     },
     "done": true
   },
