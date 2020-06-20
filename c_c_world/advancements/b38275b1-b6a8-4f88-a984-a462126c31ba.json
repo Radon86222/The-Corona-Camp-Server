@@ -1180,6 +1180,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/colony_population_25": {
+    "criteria": {
+      "population_5": "2020-06-20 05:12:41 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/tools/emerald_sickle": {
     "criteria": {
       "has_items": "2020-05-10 01:58:21 +0000"
